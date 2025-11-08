@@ -1,0 +1,8 @@
+Summary:
+• Artificial Intelligence (AI) encompasses computational systems designed to perform human-like cognitive tasks such as learning, reasoning, perception, and decision-making, with the aim of maximizing goal achievement.
+• The field, founded in 1956, has experienced cycles of optimism and "AI winters," but saw a significant boom after 2012 with deep learning and transformer architectures, leading to rapid progress in generative AI.
+• AI's core research goals include reasoning, knowledge representation, planning, and natural language processing, with applications ranging from advanced web search and recommendation systems to autonomous vehicles and creative tools.
+• The pervasive integration of AI means many advanced applications are no longer recognized as AI, while the current generative AI boom raises significant ethical concerns, potential existential risks, and calls for regulatory policies.
+
+Insight:
+From its academic inception to its current boom, AI's increasing capabilities are rapidly shifting from technological marvels to urgent ethical and regulatory challenges.
